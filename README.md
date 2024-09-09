@@ -4,6 +4,8 @@ Este repositório reúne todos os projetos desenvolvidos por mim durante as dive
 
 ## 📚 Imersões incluídas:
 
+- Imersão Dev com Google Gemini
+
 ---
 
 Cada pasta contém um `README.md` explicando o conteúdo e o projeto desenvolvido na respectiva imersão.
