@@ -5,6 +5,7 @@ Este repositório reúne todos os projetos desenvolvidos por mim durante as dive
 ## 📚 Imersões incluídas:
 
 - Imersão Dev com Google Gemini
+- Imersão Dev Back-End (Pastas front-end e back-end)
 
 ---
 
